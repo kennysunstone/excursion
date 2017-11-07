@@ -1,0 +1,18 @@
+* {
+  background-color: black;
+  font-family: Verdana,sans-serif;
+  text-align:center;
+}
+h1 {
+  font-family: Verdana,sans-serif;
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+  display: block;
+  color: white;
+}
+.calltoaction {
+  font-size: 16px;
+  color: Aquamarine;
+  text-decoration-line: underline;
+}
